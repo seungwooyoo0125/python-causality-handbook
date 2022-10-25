@@ -4,40 +4,35 @@
 
 [![DOI](https://zenodo.org/badge/255903310.svg)](https://zenodo.org/badge/latestdoi/255903310)
 
-A light-hearted yet rigorous approach to learning impact estimation and sensitivity analysis. Everything in Python and with as many memes as I could find.
 
-[Check out the book here!](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+## Introduction
+This repository is an unofficial Korean translation for the awesome causal inference text book "Causal Inference for The Brave and True". Please check [here](https://github.com/TeamCausality/Causal-Inference-with-Python) if you want to refer the official Korean translation. This repository was created for personal study.
 
-If you want to read the book in Chinese, @xieliaing was very kind to make a translation:  
-[因果推断：从概念到实践](https://github.com/xieliaing/CausalInferenceIntro)
-
-If you want to read the book in Spanish, @donelianc was very kind to make a translation:  
-[Inferencia Causal para los Valientes y Verdaderos](https://github.com/donelianc/introduccion-inferencia-causal)
-
-If you want to read it in Korean, @jsshin2019 has put up a team to make the that translation possible:  
-[Python으로 하는 인과추론 : 개념부터 실습까지](https://github.com/TeamCausality/Causal-Inference-with-Python)
- 
-
-Also, some really kind folks (@vietecon, @dinhtrang24 and @anhpham52) also translated this content into Vietnamese:  
-[Nhân quả Python](https://github.com/vietecon/NhanQuaPython)
-
-
-
-
-I like to think of this entire series as a tribute to Joshua Angrist, Alberto Abadie and Christopher Walters for their amazing Econometrics class. Most of the ideas here are taken from their classes at the American Economic Association. Watching them is what is keeping me sane during this tough year of 2020.
-* [Cross-Section Econometrics](https://www.aeaweb.org/conference/cont-ed/2017-webcasts)
-* [Mastering Mostly Harmless Econometrics](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
-
-I'll also like to reference the amazing books from Angrist. They have shown me that Econometrics, or 'Metrics as they call it, is not only extremely useful but also profoundly fun.
-
-* [Mostly Harmless Econometrics](https://www.mostlyharmlesseconometrics.com/)
-* [Mastering 'Metrics](https://www.masteringmetrics.com/)
-
-My final reference is Miguel Hernan and Jamie Robins' book. It has been my trustworthy companion in the most thorny causal questions I had to answer.
-
-* [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
-
-## How to Support This Work
-
-Causal Inference for the Brave and True is an open-source material on mostly econometrics and the statistics of science. It uses only free software, based in Python. Its goal is to be accessible, not only financially, but intellectual. I've tried my best to keep the writing entertaining while maintaining the necessary scientific rigor.  
-Recently, the book has been translated into Vietnamese by some very nice folks from the London School of Economics. Although I was thrilled by it, the translation process also revealed the insufiencies of my english. For this reason, I'm looking for funds to hire professional proofreading services and sort that problem once and for all. To help me with that, go to https://www.patreon.com/causal_inference_for_the_brave_and_true
+## Table of contents
+|NUM|Title|ENG|KOR|
+|---|---|---|---|
+|01|Introduction To Causality|내용 3|내용 4|
+|02|Randomised Experiments|내용 7|내용 8|
+|03|Stats Review: The Most Dangerous Equation|내용 11|내용 12|
+|04|Graphical Causal Models|내용 3|내용 4|
+|05|The Unreasonable Effectiveness of Linear Regression|내용 7|내용 8|
+|06|Grouped and Dummy Regression|내용 11|내용 12|
+|07|Beyond Confounders|내용 3|내용 4|
+|08|Instrumental Variables|내용 7|내용 8|
+|09|Non Compliance and LATE|내용 11|내용 12|
+|10|Matching|내용 3|내용 4|
+|11|Propensity Score|내용 7|내용 8|
+|12|Doubly Robust Estimation|내용 11|내용 12|
+|13|Difference-in-Differences|내용 3|내용 4|
+|14|Panel Data and Fixed Effects|내용 7|내용 8|
+|15|Synthetic Control|내용 11|내용 12|
+|16|Regression Discontinuity Design|내용 11|내용 12|
+|17|Predictive Models 101|내용 3|내용 4|
+|18|Heterogeneous Treatment Effects and Personalization|내용 7|내용 8|
+|19|Evaluating Causal Models|내용 11|내용 12|
+|20|Plug-and-Play Estimators|내용 3|내용 4|
+|21|Meta Learners|내용 7|내용 8|
+|22|Debiased/Orthogonal Machine Learning|내용 11|내용 12|
+|23|Challenges with Effect Heterogeneity and Nonlinearity|내용 11|내용 12|
+|24|The Difference-in-Differences Saga|내용 11|내용 12|
+|25|Synthetic Difference-in-Differences|내용 11|내용 12|
