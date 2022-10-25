@@ -11,28 +11,28 @@ This repository is an unofficial Korean translation for the awesome causal infer
 ## Table of contents
 ||Title|ENG|KOR|
 |---|---|---|---|
-|01|Introduction To Causality|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/01-Introduction-To-Causality.ipynb)|내용 4|
-|02|Randomised Experiments|내용 7|내용 8|
-|03|Stats Review: The Most Dangerous Equation|내용 11|내용 12|
-|04|Graphical Causal Models|내용 3|내용 4|
-|05|The Unreasonable Effectiveness of Linear Regression|내용 7|내용 8|
-|06|Grouped and Dummy Regression|내용 11|내용 12|
-|07|Beyond Confounders|내용 3|내용 4|
-|08|Instrumental Variables|내용 7|내용 8|
-|09|Non Compliance and LATE|내용 11|내용 12|
-|10|Matching|내용 3|내용 4|
-|11|Propensity Score|내용 7|내용 8|
-|12|Doubly Robust Estimation|내용 11|내용 12|
-|13|Difference-in-Differences|내용 3|내용 4|
-|14|Panel Data and Fixed Effects|내용 7|내용 8|
-|15|Synthetic Control|내용 11|내용 12|
-|16|Regression Discontinuity Design|내용 11|내용 12|
-|17|Predictive Models 101|내용 3|내용 4|
-|18|Heterogeneous Treatment Effects and Personalization|내용 7|내용 8|
-|19|Evaluating Causal Models|내용 11|내용 12|
-|20|Plug-and-Play Estimators|내용 3|내용 4|
-|21|Meta Learners|내용 7|내용 8|
-|22|Debiased/Orthogonal Machine Learning|내용 11|내용 12|
-|23|Challenges with Effect Heterogeneity and Nonlinearity|내용 11|내용 12|
-|24|The Difference-in-Differences Saga|내용 11|내용 12|
-|25|Synthetic Difference-in-Differences|내용 11|내용 12|
+|01|Introduction To Causality|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/01-Introduction-To-Causality.ipynb)|TBD|
+|02|Randomised Experiments|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/02-Randomised-Experiments.ipynb)|TBD|
+|03|Stats Review: The Most Dangerous Equation|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/03-Stats-Review-The-Most-Dangerous-Equation.ipynb)|TBD|
+|04|Graphical Causal Models|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/04-Graphical-Causal-Models.ipynb)|TBD|
+|05|The Unreasonable Effectiveness of Linear Regression|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/05-The-Unreasonable-Effectiveness-of-Linear-Regression.ipynb)|TBD|
+|06|Grouped and Dummy Regression|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/06-Grouped-and-Dummy-Regression.ipynb)|TBD|
+|07|Beyond Confounders|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/07-Beyond-Confounders.ipynb)|TBD|
+|08|Instrumental Variables|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/08-Instrumental-Variables.ipynb)|TBD|
+|09|Non Compliance and LATE|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/09-Non-Compliance-and-LATE.ipynb)|TBD|
+|10|Matching|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/10-Matching.ipynb)|TBD|
+|11|Propensity Score|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/11-Propensity-Score.ipynb)|TBD|
+|12|Doubly Robust Estimation|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/12-Doubly-Robust-Estimation.ipynb)|TBD|
+|13|Difference-in-Differences|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/13-Difference-in-Differences.ipynb)|TBD|
+|14|Panel Data and Fixed Effects|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/14-Panel-Data-and-Fixed-Effects.ipynb)|TBD|
+|15|Synthetic Control|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/15-Synthetic-Control.ipynb)|TBD|
+|16|Regression Discontinuity Design|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/16-Regression-Discontinuity-Design.ipynb)|TBD|
+|17|Predictive Models 101|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/17-Predictive-Models-101.ipynb)|TBD|
+|18|Heterogeneous Treatment Effects and Personalization|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/18-Heterogeneous-Treatment-Effects-and-Personalization.ipynb)|TBD|
+|19|Evaluating Causal Models|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/19-Evaluating-Causal-Models.ipynb)|TBD|
+|20|Plug-and-Play Estimators|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/20-Plug-and-Play-Estimators.ipynb)|TBD|
+|21|Meta Learners|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/21-Meta-Learners.ipynb)|TBD|
+|22|Debiased/Orthogonal Machine Learning|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/22-Debiased-Orthogonal-Machine-Learning.ipynb)|TBD|
+|23|Challenges with Effect Heterogeneity and Nonlinearity|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb)|TBD|
+|24|The Difference-in-Differences Saga|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/24-The-Diff-in-Diff-Saga.ipynb)|TBD|
+|25|Synthetic Difference-in-Differences|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/25-Synthetic-Diff-in-Diff.ipynb)|TBD|
