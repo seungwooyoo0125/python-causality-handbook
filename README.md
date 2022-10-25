@@ -9,9 +9,9 @@
 This repository is an unofficial Korean translation for the awesome causal inference text book "Causal Inference for The Brave and True". Please check [here](https://github.com/TeamCausality/Causal-Inference-with-Python) if you want to refer the official Korean translation. This repository was created for personal study.
 
 ## Table of contents
-|NUM|Title|ENG|KOR|
+||Title|ENG|KOR|
 |---|---|---|---|
-|01|Introduction To Causality|내용 3|내용 4|
+|01|Introduction To Causality|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/01-Introduction-To-Causality.ipynb)|내용 4|
 |02|Randomised Experiments|내용 7|내용 8|
 |03|Stats Review: The Most Dangerous Equation|내용 11|내용 12|
 |04|Graphical Causal Models|내용 3|내용 4|
