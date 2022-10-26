@@ -6,7 +6,7 @@
 
 
 ## Introduction
-This repository is an unofficial Korean translation for the awesome causal inference text book "Causal Inference for The Brave and True". Please check [here](https://github.com/TeamCausality/Causal-Inference-with-Python) if you want to refer the official Korean translation. This repository was created for personal study. Please note that parts that are difficult to translate or are not related to study may not be translated.
+This repository is an unofficial Korean translation for the awesome causal inference text book ["Causal Inference for The Brave and True"](https://github.com/matheusfacure/python-causality-handbook). Please check [here](https://github.com/TeamCausality/Causal-Inference-with-Python) if you want to refer the official Korean translation. This repository was created for personal study. Please note that parts that are difficult to translate or are not related to study may not be translated.
 
 
 ## Table of contents
