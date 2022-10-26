@@ -1,4 +1,4 @@
-# Causal Inference for The Brave and True
+# [한국어] Causal Inference for The Brave and True
 
 ![img](./causal-inference-for-the-brave-and-true/data/img/brave-and-true.png)
 
