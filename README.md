@@ -10,7 +10,7 @@ This repository is an unofficial Korean translation for the awesome causal infer
 
 
 ## Table of contents
-||Title|ENG|KOR|update|
+||Title|ENG|KOR|Update|
 |---|---|---|---|---|
 |01|Introduction To Causality|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/01-Introduction-To-Causality.ipynb)|TBD|
 |02|Randomised Experiments|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/02-Randomised-Experiments.ipynb)|TBD|
