@@ -10,8 +10,8 @@ This repository is an unofficial Korean translation for the awesome causal infer
 
 
 ## Table of contents
-||Title|ENG|KOR|
-|---|---|---|---|
+||Title|ENG|KOR|update|
+|---|---|---|---|---|
 |01|Introduction To Causality|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/01-Introduction-To-Causality.ipynb)|TBD|
 |02|Randomised Experiments|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/02-Randomised-Experiments.ipynb)|TBD|
 |03|Stats Review: The Most Dangerous Equation|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/03-Stats-Review-The-Most-Dangerous-Equation.ipynb)|TBD|
@@ -32,8 +32,8 @@ This repository is an unofficial Korean translation for the awesome causal infer
 |18|Heterogeneous Treatment Effects and Personalization|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/18-Heterogeneous-Treatment-Effects-and-Personalization.ipynb)|TBD|
 |19|Evaluating Causal Models|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/19-Evaluating-Causal-Models.ipynb)|TBD|
 |20|Plug-and-Play Estimators|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/20-Plug-and-Play-Estimators.ipynb)|TBD|
-|21|Meta Learners|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/21-Meta-Learners.ipynb)|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-21-Meta-Learners.ipynb)|
-|22|Debiased/Orthogonal Machine Learning|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/22-Debiased-Orthogonal-Machine-Learning.ipynb)|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-22-Debiased-Orthogonal-Machine-Learning.ipynb)|
+|21|Meta Learners|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/21-Meta-Learners.ipynb)|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-21-Meta-Learners.ipynb)|22.11.05|
+|22|Debiased/Orthogonal Machine Learning|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/22-Debiased-Orthogonal-Machine-Learning.ipynb)|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-22-Debiased-Orthogonal-Machine-Learning.ipynb)|22.11.06|
 |23|Challenges with Effect Heterogeneity and Nonlinearity|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb)|TBD|
 |24|The Difference-in-Differences Saga|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/24-The-Diff-in-Diff-Saga.ipynb)|TBD|
 |25|Synthetic Difference-in-Differences|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/25-Synthetic-Diff-in-Diff.ipynb)|TBD|
