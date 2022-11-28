@@ -13,7 +13,7 @@ This repository is an unofficial Korean translation for the awesome causal infer
 ||Title|ENG|KOR|Update|
 |---|---|---|---|---|
 |01|Introduction To Causality|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/01-Introduction-To-Causality.ipynb)|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-01-Introduction-To-Causality.ipynb)|22.11.25|
-|02|Randomised Experiments|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/02-Randomised-Experiments.ipynb)|TBD|
+|02|Randomised Experiments|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/02-Randomised-Experiments.ipynb)|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-02-Randomised-Experiments.ipynb)|22.11.28|
 |03|Stats Review: The Most Dangerous Equation|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/03-Stats-Review-The-Most-Dangerous-Equation.ipynb)|TBD|
 |04|Graphical Causal Models|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/04-Graphical-Causal-Models.ipynb)|TBD|
 |05|The Unreasonable Effectiveness of Linear Regression|[LINK](https://github.com/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/05-The-Unreasonable-Effectiveness-of-Linear-Regression.ipynb)|TBD|
