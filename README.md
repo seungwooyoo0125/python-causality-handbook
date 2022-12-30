@@ -39,7 +39,7 @@ This repository is an unofficial Korean translation for the awesome causal infer
 |25|Synthetic Difference-in-Differences|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/25-Synthetic-Diff-in-Diff.ipynb)|TBD|
 
 
-### References
+## References
 1. [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 2. [python-causality-handbook, matheusfacure](https://github.com/matheusfacure/python-causality-handbook)
 3. [Python으로 하는 인과추론 : 개념부터 실습까지
