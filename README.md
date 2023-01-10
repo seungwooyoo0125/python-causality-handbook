@@ -12,6 +12,7 @@ This repository is an unofficial Korean translation for the awesome causal infer
 ## Table of contents
 ||Title|ENG|KOR|Update|
 |---|---|---|---|---|
+||PART I||||
 |01|Introduction To Causality|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/01-Introduction-To-Causality.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-01-Introduction-To-Causality.ipynb)|22.12.27|
 |02|Randomised Experiments|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/02-Randomised-Experiments.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-02-Randomised-Experiments.ipynb)|22.12.27|
 |03|Stats Review: The Most Dangerous Equation|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/03-Stats-Review-The-Most-Dangerous-Equation.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-03-Stats-Review-The-Most-Dangerous-Equation.ipynb)|22.12.27|
@@ -23,11 +24,12 @@ This repository is an unofficial Korean translation for the awesome causal infer
 |09|Non Compliance and LATE|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/09-Non-Compliance-and-LATE.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-09-Non-Compliance-and-LATE.ipynb)|22.12.31|
 |10|Matching|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/10-Matching.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-10-Matching.ipynb)|23.01.05|
 |11|Propensity Score|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/11-Propensity-Score.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-11-Propensity-Score.ipynb)|23.01.09|
-|12|Doubly Robust Estimation|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/12-Doubly-Robust-Estimation.ipynb)|TBD|
+|12|Doubly Robust Estimation|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/12-Doubly-Robust-Estimation.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-12-Doubly-Robust-Estimation.ipynb)|23.01.10|
 |13|Difference-in-Differences|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/13-Difference-in-Differences.ipynb)|TBD|
 |14|Panel Data and Fixed Effects|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/14-Panel-Data-and-Fixed-Effects.ipynb)|TBD|
 |15|Synthetic Control|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/15-Synthetic-Control.ipynb)|TBD|
 |16|Regression Discontinuity Design|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/16-Regression-Discontinuity-Design.ipynb)|TBD|
+||PART II||||
 |17|Predictive Models 101|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/17-Predictive-Models-101.ipynb)|TBD|
 |18|Heterogeneous Treatment Effects and Personalization|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/18-Heterogeneous-Treatment-Effects-and-Personalization.ipynb)|TBD|
 |19|Evaluating Causal Models|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/19-Evaluating-Causal-Models.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-19-Evaluating-Causal-Models.ipynb)|22.11.22|
@@ -37,6 +39,12 @@ This repository is an unofficial Korean translation for the awesome causal infer
 |23|Challenges with Effect Heterogeneity and Nonlinearity|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb)|TBD|
 |24|The Difference-in-Differences Saga|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/24-The-Diff-in-Diff-Saga.ipynb)|TBD|
 |25|Synthetic Difference-in-Differences|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/25-Synthetic-Diff-in-Diff.ipynb)|TBD|
+||APPENDIX||||
+|26|Debiasing with Orthogonalization|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Debiasing-with-Orthogonalization.ipynb)|TBD|
+|27|Debiasing with Propensity Score|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Debiasing-with-Propensity-Score.ipynb)|TBD|
+|28|When Prediction Fails|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/When-Prediction-Fails.ipynb)|TBD|
+|29|Why Prediction Metrics are Dangerous For Causal Models|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Prediction-Metrics-For-Causal-Models.ipynb)|TBD|
+|30|Conformal Inference for Synthetic Controls|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Conformal-Inference-for-Synthetic-Control.ipynb)|TBD|
 
 
 ## References
