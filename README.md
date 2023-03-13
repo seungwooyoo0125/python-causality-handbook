@@ -43,7 +43,7 @@ This repository is an unofficial Korean translation for the awesome causal infer
 |26|Debiasing with Orthogonalization|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Debiasing-with-Orthogonalization.ipynb)|TBD|
 |27|Debiasing with Propensity Score|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Debiasing-with-Propensity-Score.ipynb)|TBD|
 |28|When Prediction Fails|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/When-Prediction-Fails.ipynb)|TBD|
-|29|Why Prediction Metrics are Dangerous For Causal Models|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Prediction-Metrics-For-Causal-Models.ipynb)|TBD|
+|29|Why Prediction Metrics are Dangerous For Causal Models|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Prediction-Metrics-For-Causal-Models.ipynb)|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/KOR-Prediction-Metrics-For-Causal-Models.ipynb)|23.03.13|
 |30|Conformal Inference for Synthetic Controls|[LINK](https://nbviewer.org/github/phykn/python-causality-handbook/blob/master/causal-inference-for-the-brave-and-true/Conformal-Inference-for-Synthetic-Control.ipynb)|TBD|
 
 
