@@ -4,9 +4,10 @@
 
 [![DOI](https://zenodo.org/badge/255903310.svg)](https://zenodo.org/badge/latestdoi/255903310)
 
-
 ## Introduction
-This repository is an unofficial Korean translation for the awesome causal inference text book ["Causal Inference for The Brave and True"](https://matheusfacure.github.io/python-causality-handbook/landing-page.html). Please check [here](https://github.com/TeamCausality/Causal-Inference-with-Python) if you want to see the official Korean translation. This repository is created for my personal study. If you liked this content, please share it with others who might find it useful and give it a star on the [original repository](https://github.com/matheusfacure/python-causality-handbook) (and here too 😏).
+This repository serves as an unofficial Korean translation of the incredible text book on causal inference titled "Causal Inference for The Brave and True." For the official Korean translation, please refer to the provided [link](https://github.com/TeamCausality/Causal-Inference-with-Python). I have created this repository for my personal study purposes. If you find this content valuable, kindly share it with others who may benefit from it and consider giving it a star on both the original repository and here as well. 😏
+
+이 페이지는 "Causal Inference for The Brave and True"의 비공식 한국어 번역입니다. 공식 한국어 번역은 [링크](https://github.com/TeamCausality/Causal-Inference-with-Python)를 참고바랍니다. 이 페이지는 제 개인적인 공부를 위해 정리했습니다만 인과추론을 공부하고 싶으신 분께 도움이 되고자 공유하게 되었습니다. 도움이 된다면 좋겠습니다. 😏
 
 
 ## Table of contents
